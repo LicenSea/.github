@@ -1,4 +1,5 @@
 # **LicenSea**
+<img width="640" height="118" alt="title" src="https://github.com/user-attachments/assets/f988f5bd-ea7d-4cd4-b29b-611e4660c83a" />
 
 [https://licen-sea-fe.vercel.app/](https://licen-sea-fe.vercel.app/)
 
@@ -29,6 +30,7 @@ Our goal is to make derivative creativity fair and transparent, and to build an 
 3. Fans can create derivative works under those rules.
 4. Revenue automatically flows back to the original creator.
 5. All logic is verified and enforced on-chain.
+<img width="698" height="160" alt="royalty" src="https://github.com/user-attachments/assets/af3339fa-6575-47b2-823e-f2b055d39553" />
 
 ---
 
